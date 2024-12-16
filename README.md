@@ -2,8 +2,10 @@
 The Cotton Highway's (University of Birmingham Dubai) write-ups for Hack The Box University CTF 2024.
 
 # Place Obtained
-Team ranking: 309th\n
-Teams with at least 1 solve: 864\n
+Team ranking: 309th  
+
+Teams with at least 1 solve: 864  
+
 Total teams: 1128
 
 # Solved Problems
