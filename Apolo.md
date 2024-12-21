@@ -26,14 +26,14 @@ Our machine:
 IP `0.0.0.0` indicates a network-interface-insensitive server. This is important as we're connected to the target machine through a separate interface since we're using a VPN.
 
 Target machine:  
-![](media/apolo/Pastedimage20241217213244.png)
+![](media/apolo/Pastedimage20241217213244.png)  
 The IP for `wget` is our IP from the `tun0` interface (can be checked using the `ifconfig` command) - that's the interface of HTB's VPN that's used to connect to their target machines.
 
 Now let's give the script executable permissions and run it. 
 ![](media/apolo/Pastedimage20241217214704.png)
 ...
 
-This part of the output tells us that the user `lewis` (our current user) can run the `rclone` program as a superuser **without supplying the superuser password.**:  
+This part of the output tells us that the user `lewis` (our current user) can run the `rclone` program as a superuser **without supplying the superuser password**:  
 ![](media/apolo/Pastedimage20241217214633.png)  
 We do need the `root` user permissions in order to look inside the `/root` directory, so this will come in handy if this program allows to do that somehow.
 
