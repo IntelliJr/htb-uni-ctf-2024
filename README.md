@@ -17,7 +17,7 @@ Total teams: 1128
 ## Forensics
 - Frontier Exposed (very easy)
 ## Fullpwn
-- Apolo (very easy)
+- [Apolo](Apolo.md) (very easy)
 ## Coding
 - Exclusivity (very easy)
 - Conflict Cruncher (very easy)
