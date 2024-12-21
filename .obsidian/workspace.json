@@ -11,6 +11,18 @@
             "id": "35f034e94be4c049",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "media/apolo/Pastedimage20241221124127.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pastedimage20241221124127"
+            }
+          },
+          {
+            "id": "33e2f9b1bf008ccc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Apolo.md",
@@ -21,7 +33,8 @@
               "title": "Apolo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "321fdc790e5ce011",
@@ -163,6 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f034e94be4c049",
-  "lastOpenFiles": []
+  "active": "33e2f9b1bf008ccc",
+  "lastOpenFiles": [
+    "media/apolo/Pastedimage20241221123535.png",
+    "media/apolo/Pastedimage20241217215422.png",
+    "media/apolo/Pastedimage20241217214633.png",
+    "Apolo.md",
+    "media/apolo/Pastedimage20241221124127.png"
+  ]
 }
