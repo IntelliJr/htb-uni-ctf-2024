@@ -11,30 +11,17 @@
             "id": "35f034e94be4c049",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "media/apolo/Pastedimage20241221124127.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pastedimage20241221124127"
-            }
-          },
-          {
-            "id": "33e2f9b1bf008ccc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Apolo.md",
+                "file": "ColossalBreach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apolo"
+              "title": "ColossalBreach"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "321fdc790e5ce011",
@@ -175,12 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e2f9b1bf008ccc",
+  "active": "35f034e94be4c049",
   "lastOpenFiles": [
+    "media/colossalbreach/Pastedimage20241214184512.png",
+    "media/colossalbreach/Pastedimage20241214184443.png",
+    "media/apolo/Pastedimage20241221124127.png",
+    "ColossalBreach.md",
+    "Apolo.md",
+    "media/colossalbreach",
     "media/apolo/Pastedimage20241221123535.png",
     "media/apolo/Pastedimage20241217215422.png",
-    "media/apolo/Pastedimage20241217214633.png",
-    "Apolo.md",
-    "media/apolo/Pastedimage20241221124127.png"
+    "media/apolo/Pastedimage20241217214633.png"
   ]
 }
