@@ -11,7 +11,7 @@ Total teams: 1128
 - Welcome to CTF (sanity check)
 ## Reversing
 - CryoWarmup (very easy)
-- ColossalBreach (medium)
+- [ColossalBreach](ColossalBreach.md) (medium)
 ## Crypto
 - alphascii clashing (very easy)
 ## Forensics
